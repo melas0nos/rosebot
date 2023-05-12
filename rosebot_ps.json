@@ -1,0 +1,23 @@
+{
+            "background": "#B4B4A5",
+            "black": "#949090",
+            "blue": "#000000",
+            "brightBlack": "#AD4073",
+            "brightBlue": "#09FFFF",
+            "brightCyan": "#CEFAF0",
+            "brightGreen": "#00FFB3",
+            "brightPurple": "#FB0050",
+            "brightRed": "#2BFF00",
+            "brightWhite": "#F0FD7E",
+            "brightYellow": "#FFFFFF",
+            "cursorColor": "#FEFFF9",
+            "cyan": "#D2FF2F",
+            "foreground": "#5B613A",
+            "green": "#0CF5B7",
+            "name": "Rosebot",
+            "purple": "#FF00BF",
+            "red": "#3AF773",
+            "selectionBackground": "#E5FF00",
+            "white": "#41413D",
+            "yellow": "#C1FF87"
+        }
